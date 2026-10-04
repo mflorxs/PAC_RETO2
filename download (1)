@@ -1,0 +1,6 @@
+emisor
+detector
+*.o
+*.bin
+*.pcapng
+bin/
