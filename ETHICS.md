@@ -15,7 +15,7 @@ El código, análisis y documentación de este repositorio son trabajo
 propio del equipo. El uso de IA (si aplica) está declarado en AI_USAGE.md.
 
 Firmas:
-- [Nombre 1] — [matrícula] — [fecha]
-- [Nombre 2] — [matrícula] — [fecha]
-- [Nombre 3] — [matrícula] — [fecha]
-- [Nombre 4] — [matrícula] — [fecha]
+- [Miguel Eduardo Flores Salazar] — [1993905] — [04/10/26]
+- [Nombre 2] — [matrícula] — [04/10/26]
+- [Nombre 3] — [matrícula] — [04/10/26]
+- [Nombre 4] — [matrícula] — [04/10/26]
