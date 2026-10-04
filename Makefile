@@ -2,15 +2,20 @@ CXX      = g++
 CXXFLAGS = -Wall -Wextra -O2 -std=c++17
 LDFLAGS  = -lssl -lcrypto -lpthread
 
-all: emisor detector
+BIN_DIR = bin
 
-emisor: src/emisor.cpp
+all: $(BIN_DIR)/emisor $(BIN_DIR)/detector
+
+$(BIN_DIR):
+	mkdir -p $(BIN_DIR)
+
+$(BIN_DIR)/emisor: src/emisor.cpp | $(BIN_DIR)
 	$(CXX) $(CXXFLAGS) $< -o $@ $(LDFLAGS)
 
-detector: src/detector.cpp
+$(BIN_DIR)/detector: src/detector.cpp | $(BIN_DIR)
 	$(CXX) $(CXXFLAGS) $< -o $@ $(LDFLAGS)
 
 clean:
-	rm -f emisor detector
+	rm -rf $(BIN_DIR)
 
 .PHONY: all clean
