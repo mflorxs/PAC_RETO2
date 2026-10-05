@@ -38,4 +38,8 @@ Consulta el documento **RETO2_PAC_AD2026.pdf** publicado en Teams.
 | Nombre | Matrícula | Módulo |
 |---|---|---|
 |Carlos Adrián Ramos Zacarías|2013681| Emisor |
-| | | Detector |
+|Marcos Adrián Gonzlaez Soto|2037908| Emisor |
+|Axel Simon Moreno Lozano|2010484| Emisor |
+|Anateyssi Hernández Meza|2024072| Detector |
+|Miguel Eduardo Flores Salazar|1993905| Detector |
+
