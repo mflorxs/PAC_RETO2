@@ -1,0 +1,15 @@
+{
+  "ip_emisor": "192.168.56.100",
+  "puerto_destino": 4444,
+  "total_mensajes": 12,
+  "intervalo_promedio_seg": 5.0003,
+  "desviacion_estandar": 0.0002,
+  "patron": "beaconing_regular",
+  "iocs": [
+    {"tipo": "ip", "valor": "192.168.56.100"},
+    {"tipo": "puerto_udp", "valor": 4444},
+    {"tipo": "payload_patron", "valor": "ALIVE:"}
+  ],
+  "alerta": true,
+  "nivel": "ALTO"
+}
