@@ -37,5 +37,5 @@ Consulta el documento **RETO2_PAC_AD2026.pdf** publicado en Teams.
 
 | Nombre | Matrícula | Módulo |
 |---|---|---|
-| | | Emisor |
+|Carlos Adrián Ramos Zacarías|2013681| Emisor |
 | | | Detector |
