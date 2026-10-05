@@ -16,6 +16,7 @@ propio del equipo. El uso de IA (si aplica) está declarado en AI_USAGE.md.
 
 Firmas:
 - [Miguel Eduardo Flores Salazar] — [1993905] — [04/10/26]
-- [Nombre 2] — [matrícula] — [04/10/26]
-- [Nombre 3] — [matrícula] — [04/10/26]
-- [Nombre 4] — [matrícula] — [04/10/26]
+- [Carlos Adrián Ramos Zacarías] — [2013681] — [04/10/26]
+- [Marcos Adrián Gonzalez Soto] — [2037908] — [04/10/26]
+- [Axel Simon Moreno Lozano] — [2010484] — [04/10/26]
+- [Anateyssi Hernández Meza] — [2024072] — [04/10/26]
